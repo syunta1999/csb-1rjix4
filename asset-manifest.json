@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://syunta1999.github.io/csb-1rjix4/static/css/main.9d8967df.chunk.css",
+    "main.js": "https://syunta1999.github.io/csb-1rjix4/static/js/main.0e8b90d2.chunk.js",
+    "main.js.map": "https://syunta1999.github.io/csb-1rjix4/static/js/main.0e8b90d2.chunk.js.map",
+    "runtime-main.js": "https://syunta1999.github.io/csb-1rjix4/static/js/runtime-main.378884fb.js",
+    "runtime-main.js.map": "https://syunta1999.github.io/csb-1rjix4/static/js/runtime-main.378884fb.js.map",
+    "static/js/2.470f618c.chunk.js": "https://syunta1999.github.io/csb-1rjix4/static/js/2.470f618c.chunk.js",
+    "static/js/2.470f618c.chunk.js.map": "https://syunta1999.github.io/csb-1rjix4/static/js/2.470f618c.chunk.js.map",
+    "index.html": "https://syunta1999.github.io/csb-1rjix4/index.html",
+    "static/css/main.9d8967df.chunk.css.map": "https://syunta1999.github.io/csb-1rjix4/static/css/main.9d8967df.chunk.css.map",
+    "static/js/2.470f618c.chunk.js.LICENSE.txt": "https://syunta1999.github.io/csb-1rjix4/static/js/2.470f618c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.378884fb.js",
+    "static/js/2.470f618c.chunk.js",
+    "static/css/main.9d8967df.chunk.css",
+    "static/js/main.0e8b90d2.chunk.js"
+  ]
+}
